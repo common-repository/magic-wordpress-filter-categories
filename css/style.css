@@ -1,0 +1,31 @@
+.filter_search_widget { 
+	width: 90%; 
+	padding: 0% 5%;  
+	margin-top: 10px;
+	background: #9CF;
+	border: 1px solid #EFEFEF;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+	
+	.filter_search_widget h1 { 
+		font-size: 16px; 
+		margin: 10px 5px;
+	}
+	
+	.filter_search_widget ul { 
+		list-style: none;
+		margin-bottom: 10px;
+
+	}
+	
+	.filter_search_widget ul li { 
+		list-style: none;
+	}
+	
+#filter_search_loading { 
+	font-size: 16px;
+	line-height: 30px;
+	text-align:  center;
+}
+
